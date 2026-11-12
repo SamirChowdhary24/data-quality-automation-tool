@@ -1,0 +1,18 @@
+{
+    "required_columns": [
+        "customer_id",
+        "name",
+        "age",
+        "city",
+        "purchase_amount"
+    ],
+    "numeric_rules": {
+        "age": {
+            "min": 0,
+            "max": 100
+        },
+        "purchase_amount": {
+            "min": 0
+        }
+    }
+}

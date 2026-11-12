@@ -1,2 +1,9 @@
 .venv/
 __pycache__/
+
+# Generated files
+logs/
+output/
+
+# External datasets
+data/titanic.csv

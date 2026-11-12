@@ -1,0 +1,5 @@
+customer_id,name,age,city,purchase_amount
+201,Alice,25,Delhi,1500
+202,Bob,-10,Mumbai,900
+203,Charlie,150,Bangalore,-500
+204,David,32,Chennai,1200
