@@ -1,0 +1,7 @@
+customer_id,name,age,city,purchase_amount
+101,John,25,New York,1200
+102,Emma,30,London,850
+103,Alex,,Paris,950
+104,Sophia,28,,1100
+102,Emma,30,London,850
+105,Michael,35,Berlin,
